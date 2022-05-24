@@ -1,4 +1,11 @@
-### Currently Expanding my Computer Science Horizon
+## Currently Expanding my Computer Science Horizon
+
+Currently participating in a Junior Internship at Micro Focus. 
+
+* Setting up GitHub profile
+* Basic Data Science
+* Development Tools
+* Team Collaboration
 
 <!--
 **Cmurphy05/CMurphy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +24,5 @@ Here are some ideas to get you started:
 
 ## Contact Info
 Email: connormurphy05@gmail.com
+
 Discord: XYST3#5192
