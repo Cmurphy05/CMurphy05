@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently Expanding my Computer Science Horizon
 
 <!--
 **Cmurphy05/CMurphy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contact Info
+Email: connormurphy05@gmail.com
+Discord: XYST3#5192
