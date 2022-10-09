@@ -1,9 +1,9 @@
 ## Currently Expanding my Computer Science Horizon
 
-Currently participating in a Junior Internship at Micro Focus. 
+Completed Junior Year Internship at Micro Focus. 
 
 * Setting up GitHub profile
-* Basic Data Science
+* Basic Data Science in SQL
 * Development Tools
 * Team Collaboration
 
