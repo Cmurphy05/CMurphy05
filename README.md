@@ -1,4 +1,4 @@
-## Currently Expanding my Computer Science Horizon
+## Expanding my Computer Science Horizon
 
 Currently Learning Java
 * Self-Learning
