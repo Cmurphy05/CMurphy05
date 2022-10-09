@@ -1,5 +1,7 @@
 ## Currently Expanding my Computer Science Horizon
 
+Currently self-learning Java and through AP Computer Science
+
 Completed Junior Year Internship at Micro Focus. 
 
 * Setting up GitHub profile
