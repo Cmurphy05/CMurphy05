@@ -2,7 +2,7 @@
 
 Currently Learning Java
 * Self-Learning
-* AP Computer Science A
+* AP Computer Science
 * Working on personal Java projects
 
 Completed Junior Year Internship at Micro Focus. 
