@@ -1,11 +1,11 @@
 ## Expanding my Computer Science Horizon
 
 Currently Learning Java
-* Self-Learning
+* Self-Learning through YouTube and Google
 * AP Computer Science
-* Working on personal Java projects
+* Working on Java projects
 
-Completed Junior Year Internship at Micro Focus. 
+Completed Junior Year Internship at Micro Focus 
 * Setting up GitHub profile
 * Basic Data Science in SQL
 * Development Tools
